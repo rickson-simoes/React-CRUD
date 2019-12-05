@@ -5,6 +5,6 @@ Inserindo e deletando valores em react, pelo banco de dados do browser (Local St
 ```Yarn```
 
 2 - Executar aplicação
-```Yarn start``` 
+```Yarn dev``` 
 
 3 - Acessar ```localhost:8080```
